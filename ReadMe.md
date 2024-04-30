@@ -10,9 +10,6 @@ yes
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Imaaann&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaaann&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Imaaann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Imaaann&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
