@@ -1,5 +1,8 @@
 # 💫 About Me:
-yes
+- I do basically a bit of everything at the same time
+- Looking for ideas to work on
+- the name is Pronounced i-man
+- I did reset my github, yes
 
 
 # 💻 Tech Stack:
